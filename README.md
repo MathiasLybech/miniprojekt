@@ -1,4 +1,4 @@
-# Miniprojekt for vibenhus gymnasium
+# Miniprojekt
 
 ## Eksamensopgaven i imperativ programmering 2016
 
