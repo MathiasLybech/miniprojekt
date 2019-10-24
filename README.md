@@ -1,7 +1,7 @@
 # Miniprojekt
 
 ## Eksamensopgaven i imperativ programmering 2016
-
+Slides: https://docs.google.com/presentation/d/1hXU2k6ol0UE4dtIgwQcTl4IXGAZqvDnp_sEK2YAL0KM/edit?usp=sharing
 
 I den danske superliga mødes 12 fodboldhold indbyrdes i et antal kampe. Kampene er inddelt i runder med seks kampe i hver runde. (Dette var strukturen i superligaen i 2015-2016, og tidligere årgange). Der gives tre point for en sejr, et point for uafgjort, og nul point for en tabt kamp. I tilfælde af pointlighed mellem to hold afgør målforskellen (differencen mellem antal mål scoret af holdet og antal mål scoret mod holdet), og dernæst det samlede antal scorede mål den indbyrdes placering af de to hold (sådan er reglerne i denne opgave). Hvis alt står lige, beslutter vi blot at ordne de to hold alfabetisk efter det forkortede klubnavn (som er på to eller tre store bogstaver).
 
